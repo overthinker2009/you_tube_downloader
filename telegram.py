@@ -7,7 +7,7 @@ import logging
 import sqlite3
 
 # Bot token
-BOT_TOKEN = "8199732359:AAGsY00bsIIVnIRZrPL5FIHT2Dte934XNEc"  # Replace with your actual bot token
+BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your actual bot token
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Configure logging
